@@ -14,7 +14,7 @@ Javascript with HTML.
 
 ## Deployment
 
-The Website is currently Deployed on GitHub pages:
+The project is currently Deployed on GitHub pages:
 
 [Loan Caculator](https://rameshtavishwakarma.github.io/Loan-Calculator-/)
 
